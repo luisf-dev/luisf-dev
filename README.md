@@ -23,4 +23,4 @@
 
 ![Snake animation](https://github.com/luisf-csdev/luisf-csdev/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="right">Hope you have an excelsior day! 🌌</h3>
+<h3 align="center"> ~ hope you have an excelsior day! 🌌</h3>
