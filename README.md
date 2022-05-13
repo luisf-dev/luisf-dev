@@ -1,19 +1,15 @@
 <h1> Hello everyone, Luís here 💙 </h1>
+<a href="https://github.com/luisf-csdev">
 <div align="center">
-  <a href="https://github.com/luisf-csdev">
-    <img height=210em alt="stats" src="https://github-readme-stats.vercel.app/api?username=luisf-dev&include_all_commits&count_private=true&show_icons=true&theme=react">
-    <img height=210em alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisf-dev&layout=compact&theme=react">
-  </a>
+    <img height=210em alt="stats" src="https://github-readme-stats.vercel.app/api?username=luisf-csdev&include_all_commits&count_private=true&show_icons=true&theme=react">
+    <img height=210em alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisf-csdev&layout=compact&theme=react">
 </div>
-
 <div style="display: inline_block"><br>
-  <a href="https://github.com/luisf-csdev">
-    <img align="center" height="30" with="40" alt="luisf-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" with="40" alt="luisf-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" height="30" with="40" alt="luisf-css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="right" alt="luisf-gif" height="170" src= "https://user-images.githubusercontent.com/105379183/168210548-f2f75da7-8a9b-4c4b-aee6-e33e2a8933f3.gif">
+  <img align="center" alt="luisf-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="luisf-html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="luisf-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="luisf-gif" height="170" src= "https://user-images.githubusercontent.com/105379183/168210548-f2f75da7-8a9b-4c4b-aee6-e33e2a8933f3.gif">
     <!--gif credits to @julitronix and to my love that made me this pic-->
-  </a>  
 </div>
 
 ##
@@ -27,4 +23,4 @@
 
 ![Snake animation](https://github.com/luis-csdev/luisf-csdev/blob/output/github-contribution-grid-snake.svg)
 
-<h3> align= "center"> Hope you have an excelsior day! 🌌</h3>
+<h3 align="center">Hope you have an excelsior day! 🌌</h3>
