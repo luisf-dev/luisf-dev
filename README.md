@@ -1,8 +1,8 @@
 <h1> Hello everyone, Luís here 💙 </h1>
 <a href="https://github.com/luisf-csdev">
 <div align="center">
-    <img height=160em alt="stats" src="https://github-readme-stats.vercel.app/api?username=luisf-csdev&include_all_commits&count_private=true&show_icons=true&theme=react">
-    <img height=160em alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisf-csdev&layout=compact&theme=react">
+    <img height=150em alt="stats" src="https://github-readme-stats.vercel.app/api?username=luisf-csdev&include_all_commits&count_private=true&show_icons=true&theme=react">
+    <img height=150em alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisf-csdev&layout=compact&theme=react">
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="luisf-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
