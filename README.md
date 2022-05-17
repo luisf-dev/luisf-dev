@@ -8,7 +8,7 @@
     <img align="center" alt="luisf-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="luisf-html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="luisf-css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="right" alt="luisf-gif" height="170" src= "https://user-images.githubusercontent.com/105379183/168210548-f2f75da7-8a9b-4c4b-aee6-e33e2a8933f3.gif">
+    <img align="right" alt="luisf-gif" height="170" src= "https://user-images.githubusercontent.com/105379183/168926050-1c5d7ba9-d684-49eb-b1b1-3e84ce92371c.gif">
     <!--gif credits to @julitronix and to my love that made me this pic-->
 </div>
 
