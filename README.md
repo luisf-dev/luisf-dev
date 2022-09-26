@@ -17,8 +17,8 @@
     
 <a href="https://github.com/luisf-csdev">
 <div align="left"><br> 
-    <img height="150" width="400" alt="stats" src="https://github-readme-stats-luisf-csdev.vercel.app/api?username=luisf-csdev&include_all_commits&count_private=true&show_icons=true&theme=react">
-    <img height="150" width="400" alt="langs" src="https://github-readme-stats-luisf-csdev.vercel.app/api/top-langs/?username=luisf-csdev&layout=compact&theme=react">
+    <img height="150" width="390" alt="stats" src="https://github-readme-stats-luisf-csdev.vercel.app/api?username=luisf-csdev&include_all_commits&count_private=true&show_icons=true&theme=react">
+    <img height="150" width="390" alt="langs" src="https://github-readme-stats-luisf-csdev.vercel.app/api/top-langs/?username=luisf-csdev&layout=compact&theme=react">
 </div>
 
 <div align="center">
