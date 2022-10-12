@@ -13,13 +13,14 @@
     <img alt="luisf-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
     
-<img align="right" alt="luisf-gif" height="170" width="170" src="https://user-images.githubusercontent.com/105379183/192373075-e0d6a782-fd02-4e67-ba66-6676b1df3e3c.gif"></a>
-    <!--gif credits to @julitronix and to my love that made me this pic-->
+
     
 <a href="https://github.com/luisf-csdev">
-<div align="left"><br> 
-    <img height="150" width="390" alt="stats" src="https://github-readme-stats-luisf-csdev.vercel.app/api?username=luisf-csdev&include_all_commits&count_private=true&show_icons=true&theme=react">
-    <img height="150" width="390" alt="langs" src="https://github-readme-stats-luisf-csdev.vercel.app/api/top-langs/?username=luisf-csdev&layout=compact&theme=react">
+<div align="center"><br> 
+    <img height="150" width="350" alt="stats" src="https://github-readme-stats-luisf-csdev.vercel.app/api?username=luisf-csdev&include_all_commits&count_private=true&show_icons=true&theme=react">
+    <img height="150" width="350" alt="langs" src="https://github-readme-stats-luisf-csdev.vercel.app/api/top-langs/?username=luisf-csdev&layout=compact&theme=react">
+    <img align="right" alt="luisf-gif" height="120" width="120" src="https://user-images.githubusercontent.com/105379183/192373075-e0d6a782-fd02-4e67-ba66-6676b1df3e3c.gif"></a>
+    <!--gif credits to @julitronix and to my love that made me this pic-->
 </div>
 
 <div align="center">
