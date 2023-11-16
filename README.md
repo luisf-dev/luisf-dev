@@ -32,7 +32,12 @@
     
 ##
 
-![Snake animation](https://github.com/luisf-csdev/luisf-csdev/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    
+![commit-eater-svg](https://github.com/luisf-csdev/luisf-csdev/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 
 <h6 align="center">🪐 hope you have an excelsior day! 🪐</h6>
 </a>
