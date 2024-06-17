@@ -2,7 +2,6 @@
 <p>🚀 I'm a Full Stack Web Developer who loves technology and is studying to get even better every day!<br>
 💻 Currently I work with the following stacks:</p>
 
-<a href="https://github.com/luisf-csdev">
 <div align="center">
     <img alt="luisf-ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img alt="luisf-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -40,4 +39,3 @@
 
 
 <h6 align="center">🪐 hope you have an excelsior day! 🪐</h6>
-</a>
